@@ -22,7 +22,7 @@
  # Usage
  * Import the library
  `<script src='./CPF.js' type="text/javascript"></script>`
-* Instace a object
+* Instace an object
 `var cpf = new CPF('123.456.789-10', true);`
 * You'll set two params:
      1. CPF: **String**
