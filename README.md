@@ -19,7 +19,7 @@
 2    console.log(cpf.validate())
 3    //true
 ```
- #Usage
+ # Usage
  * Import the library
  `<script src='./CPF.js' type="text/javascript"></script>`
 * Instace a object
